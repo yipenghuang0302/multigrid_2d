@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include "../relax/blas/blas.h"
+#include "blas.h"
 
 int	ddm (
 	int node_fine,

@@ -3,7 +3,7 @@
 #include <float.h>
 #include <time.h>
 
-#include "blas/blas.h"
+#include "blas.h"
 
 int conjugate_solver_3d (
 	int n,

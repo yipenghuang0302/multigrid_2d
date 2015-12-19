@@ -1,6 +1,6 @@
 #include "norm.h"
 
-#include "blas/blas.h"
+#include "blas.h"
 
 int norm (
 	int n,

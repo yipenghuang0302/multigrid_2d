@@ -4,8 +4,8 @@
 #include <math.h>
 
 #include "ddm.h"
-#include "../relax/solvers.h"
-#include "../relax/smoothers.h"
+#include "solvers.h"
+#include "smoothers.h"
 
 double * spacing (
   int n,

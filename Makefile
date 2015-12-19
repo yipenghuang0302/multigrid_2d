@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-std=gnu99 -Wall -Wextra -O3 -ftree-vectorize -msse3
 LDFLAGS=
-SOURCES=*.c ../*.c ../../relax/*.c ../../relax/blas/*.c
+SOURCES=*.c
 OBJECTS=$(SOURCES:.cpp=.o)
 EXECUTABLE=test
 

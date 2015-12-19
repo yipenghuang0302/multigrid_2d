@@ -3,7 +3,7 @@
 #include <float.h>
 #include <time.h>
 
-#include "blas/blas.h"
+#include "blas.h"
 
 int sor (
 	int n,
